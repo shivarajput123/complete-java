@@ -1,3 +1,7 @@
+//  5.Create a program to input name of the person and 
+// respond with ”Welcome NAME to shiva ”
+
+
 import java.util.Scanner;
 
 public class Challenge5 {
