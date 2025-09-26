@@ -1,3 +1,5 @@
+//  6.Create a program to add two numbers
+
 import java.util.Scanner;
 public class Challenge6 {
     public static void main(String[] args) {
