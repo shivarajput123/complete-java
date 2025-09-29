@@ -1,3 +1,5 @@
+//14.Create a program to convert Fahrenheit to Celsiu
+//  °C = (°F - 32) × 5/9
 
 import java.util.Scanner;
 public class Challenge14 {

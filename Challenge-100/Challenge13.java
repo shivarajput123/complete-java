@@ -1,4 +1,5 @@
-
+// 13.Create a program to calculate Compound interest
+//  Compound Interest = P(1 + R/100)t
 import java.util.Scanner; 
 public class Challenge13 {
     public static void main(String[] args) {

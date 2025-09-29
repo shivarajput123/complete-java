@@ -1,4 +1,5 @@
-
+// 12.Create a program to calculate simple interest.
+//  Simple Interest = (P x T x R)/100 
 import java.util.Scanner;
 public class Challenge12 {
     public static void main(String[] args) {
